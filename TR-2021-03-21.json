@@ -1,0 +1,1631 @@
+{
+  "cases":[
+    {
+      "id":14,
+      "title":"Change \"Trade box view\" - List",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cList\u201c option form the context menu.",
+          "expected_result":"View is changed to list.",
+          "data":""
+        }
+      ]
+    },
+    {
+      "id":15,
+      "title":"Change \"Trade box view\" - Compact",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cCompact\u201c option form the context menu.",
+          "expected_result":"View is changed to compact.",
+          "data":""
+        }
+      ]
+    },
+    {
+      "id":16,
+      "title":"Change \"Trade box view\" - Standard",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cStandard\u201c option form the context menu.",
+          "expected_result":"View is changed to standard.",
+          "data":""
+        }
+      ]
+    },
+    {
+      "id":17,
+      "title":"Change \"Trade box view\" - Sentiment",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cSentiment\u201c option form the context menu.",
+          "expected_result":"View is changed to sentiment.",
+          "data":""
+        }
+      ]
+    },
+    {
+      "id":18,
+      "title":"Change \"Trade box view\" - Full",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cFull\u201c option form the context menu.",
+          "expected_result":"View is changed to full.",
+          "data":""
+        }
+      ]
+    },
+    {
+      "id":19,
+      "title":"Change \"Trade box view\" - Custom (Mini chart)",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cCustom\u201c option form the context menu.",
+          "expected_result":"Show context menu.",
+          "data":""
+        },
+        {
+          "position":3,
+          "action":"Set switch \u201cMini chart\u201c to ON.",
+          "expected_result":"Shows mini chart in trade box view.",
+          "data":""
+        }
+      ]
+    },
+    {
+      "id":20,
+      "title":"Change \"Trade box view\" - Custom (Today)",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cCustom\u201c option form the context menu.",
+          "expected_result":"Show context menu.",
+          "data":""
+        },
+        {
+          "position":3,
+          "action":"Set switch \u201cToday\u201c to ON.",
+          "expected_result":"Shows today in trade box view.",
+          "data":""
+        }
+      ]
+    },
+    {
+      "id":21,
+      "title":"Change \"Trade box view\" - Custom (Low\/High)",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cCustom\u201c option form the context menu.",
+          "expected_result":"Show context menu.",
+          "data":""
+        },
+        {
+          "position":3,
+          "action":"Set switch \u201cLow\/High\u201c to ON.",
+          "expected_result":"Shows Low\/High in trade box view.",
+          "data":""
+        }
+      ]
+    },
+    {
+      "id":22,
+      "title":"Change \"Trade box view\" - Custom (Sellers\/Buyers)",
+      "description":null,
+      "preconditions":"1. Logged in the \u201cTrading 212\u201caccount.",
+      "postconditions":null,
+      "priority":"medium",
+      "severity":"normal",
+      "behavior":"positive",
+      "type":"functional",
+      "automation":"is-not-automated",
+      "status":"actual",
+      "milestone":null,
+      "custom_fields":[
+        
+      ],
+      "steps":[
+        {
+          "position":1,
+          "action":"Click on the button in the left side from watchlists",
+          "expected_result":"Shows context menu for changing trade box view.",
+          "data":""
+        },
+        {
+          "position":2,
+          "action":"Click on the \u201cCustom\u201c option form the context menu.",
+          "expected_result":"Show context menu.",
+          "data":""
+        },
+        {
+          "position":3,
+          "action":"Set switch \u201cSellers\/Buyers\u201c to ON.",
+          "expected_result":"Shows Sellers\/Buyers in trade box view.",
+          "data":""
+        }
+      ]
+    }
+  ],
+  "suites":[
+    {
+      "id":1,
+      "title":"Purchase of shares form CFD",
+      "description":null,
+      "preconditions":"1. Logged in to trading 212 account.\n\n2. Opened CFD platform.\n\n3. There is money in the account",
+      "suites":[
+        
+      ],
+      "cases":[
+        {
+          "id":1,
+          "title":"Buying stocks from lists",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"to-be-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Click to \u201cWatchlists\u201c.",
+              "expected_result":"Shows all lists.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Select any list",
+              "expected_result":"Shows shares from the list.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Select one of the shares",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Press the specified button.",
+              "expected_result":"Shows the detailed trade box.",
+              "data":""
+            },
+            {
+              "position":5,
+              "action":"Select \u201cBuy\u201c option form the top of trade box.",
+              "expected_result":"Option for buying is selected.",
+              "data":""
+            },
+            {
+              "position":6,
+              "action":"Select \u201cQuantity\u201c form the middle of the trade box.",
+              "expected_result":"Quantity is set.",
+              "data":""
+            },
+            {
+              "position":7,
+              "action":"Press the \u201cConfirm Buy\u201c from the trade box.",
+              "expected_result":"The shares have been bought.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":2,
+          "title":"Buying stocks from search bar",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"to-be-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Click to \u201cSearch bar\u201c.",
+              "expected_result":"Shows all shares in list.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Select one of the shares",
+              "expected_result":"Shows the share detailed box",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Select quantity if is possible",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Click the specified field.",
+              "expected_result":"The shares have been bought.",
+              "data":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":2,
+      "title":"Sell of shares from CFD",
+      "description":null,
+      "preconditions":"1. Logged in to account.\n\n2. Opened CDF.\n\n3. Have a purchased shares.",
+      "suites":[
+        
+      ],
+      "cases":[
+        {
+          "id":3,
+          "title":"Sell form the footer home page",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"to-be-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Click on \u201cpie\u201c button.",
+              "expected_result":"Shows list with purchased shares.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Choose which share you want to sell and right-click on it.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Click on \u201cOpen chart\u201c in the context menu.",
+              "expected_result":"Shows the graphic on share.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Right-click on graphic of share.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":5,
+              "action":"Click on \u201cOpen Detailed trade box\u201c in the context menu.",
+              "expected_result":"Shows \u201cTrade Box\u201c",
+              "data":""
+            },
+            {
+              "position":6,
+              "action":"Click on section \u201cSell\u201d.",
+              "expected_result":"Switches to the \"sale\" section.",
+              "data":""
+            },
+            {
+              "position":7,
+              "action":"Set \u201cQuantity\u201c of shares to sale.",
+              "expected_result":"The quantity is set.",
+              "data":""
+            },
+            {
+              "position":8,
+              "action":"Click on the \u201cConfirm Sell\u201c button.",
+              "expected_result":"Selling is realized.",
+              "data":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":3,
+      "title":"Watchlists",
+      "description":null,
+      "preconditions":"1. Logged in to Trading 212 account.\n\n2. Opened CFD platform.",
+      "suites":[
+        
+      ],
+      "cases":[
+        {
+          "id":4,
+          "title":"Expanding watchlists",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Click on the \u201cWatchlists\u201c button in left navigation menu.",
+              "expected_result":"The watch list menu expands and default lists and custom lists are displayed.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":5,
+          "title":"Select each option from watchlists",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Expand the watchlists",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Select each option in the watchlists.",
+              "expected_result":"Shows stocks in this list. (see the attached video)",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":6,
+          "title":"Create new watchlist",
+          "description":null,
+          "preconditions":"Watch lists have been expanded.",
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Click the \u201cNew Watchlists\u201c button below the lists",
+              "expected_result":"Shows window to create new watchlist.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Enter the name of the new watchlist.",
+              "expected_result":"The field is filled.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Press the \u201cCreate\u201c button.",
+              "expected_result":"New watchlist is created successfully.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":7,
+          "title":"Add financial instrument in new list",
+          "description":null,
+          "preconditions":"1. Watch lists have been expanded.\n\n2. New list is created.\n\n3. New list is selected.",
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Click on the \u201cAdd instruments\u201c button on the right side in watchlists.",
+              "expected_result":"Shows new window with lists of instruments.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Select a instrument from the list and click on its name.",
+              "expected_result":"A detailed menu for the instrument is displayed.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Click on the \u201cAdd to watchlist\u201c button below the detailed menu of the instrument.",
+              "expected_result":"Shows menu to choose list.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Select in which list you want to add the new instrument.",
+              "expected_result":"The instrument is added successfully in the list.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":9,
+          "title":"Add another financial instrument in new list",
+          "description":null,
+          "preconditions":"1. Watch lists have been expanded.\n\n2. New list is created.\n\n3. New list is selected.",
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Click on the \u201cSearch\u201c field on the top side in main screen.",
+              "expected_result":"Shows list with all instruments.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click the button before the name of the financial instrument to add it to your list.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Click the button before the name of the watchlist to add the financial instrument inside.",
+              "expected_result":"The financial instrument is successfully added in you list.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":8,
+          "title":"Rename the lists you created.",
+          "description":null,
+          "preconditions":"1. Watch lists have been expanded.\n\n2. You have yours list created.",
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover your mouse over the name of your lists",
+              "expected_result":"Shows button to settings.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the settings button.",
+              "expected_result":"Shows new window to modify watchlist.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Change the name in the text field and click on the \u201cSave changes\u201c button.",
+              "expected_result":"The name of your list is changed.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":11,
+          "title":"Remove financial instrument from list",
+          "description":null,
+          "preconditions":"1. You have your custom list.\n\n2. The list has more than one financial stock.\n\n3. Watchlist is selected.",
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Select which financial stock you want to remove",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the \u201cSearch\u201c field.",
+              "expected_result":"Shows \u201cSearch\u201c window.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Search for the financial stock e.g. Silver",
+              "expected_result":"Filters only the financial instrument you are looking for.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Click on the \u201ctick\u201c button before the name of the financial stock.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":5,
+              "action":"Click in the button before the name from the list who want to be removed from the context menu from the previous step.",
+              "expected_result":"The financial stock is removed from the list.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":12,
+          "title":"Watchlist \"Auto Close\"",
+          "description":null,
+          "preconditions":"1. Watchlist is expanded.",
+          "postconditions":null,
+          "priority":"low",
+          "severity":"minor",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Click on the switch \u201cAuto Close\u201c below the watchlist.",
+              "expected_result":"Switch is on.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the financial graphic.",
+              "expected_result":"Watchlist is close automatically.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":13,
+          "title":"Delete own created watchlist",
+          "description":null,
+          "preconditions":"1. You have own created list with one or more financials instruments.",
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the name of your own list who want to be removed.",
+              "expected_result":"Shows button for modify of the list.",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the button for modify.",
+              "expected_result":"Shows modify window.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Click on the \u201cDelete Watchlist\u201c button.",
+              "expected_result":"Show a confirmation window with",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Click \u201cOK\u201c button.",
+              "expected_result":"Watchlist is removed.",
+              "data":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":4,
+      "title":"Graphics",
+      "description":null,
+      "preconditions":"1. Logged in to Trading 212 account.\n\n2. Opened CFD platform.",
+      "suites":[
+        
+      ],
+      "cases":[
+        {
+          "id":23,
+          "title":"Zoom out the graphic",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic window.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201czoom out\u201d button",
+              "expected_result":"The graphic is zoom out.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":24,
+          "title":"Zoom in the graphic",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic window.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201czoom in\u201d button",
+              "expected_result":"The graphic is zoom in.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":25,
+          "title":"Change the time period of the graphic",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic window.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201cTime period\u201d button",
+              "expected_result":"Shows the context menu with different time periods",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Click on one of the options in the context menu",
+              "expected_result":"The time period of graphic is changed.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":26,
+          "title":"Change the chart type of the graphic.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic window.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201cChart Type\u201d button",
+              "expected_result":"Shows the context menu with different chart types",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Click on one of the options in the context menu",
+              "expected_result":"The chart type is changed.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":27,
+          "title":"Change the chart settings.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic window.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201cChart Settings\u201d button",
+              "expected_result":"Shows the context menu with different chart settings.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Click on one or more of the options in the context menu",
+              "expected_result":"The chart settings is changed.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":28,
+          "title":"Choose template",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"undefined",
+          "severity":"undefined",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201ctemplate\u201c button.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Choose one of template.",
+              "expected_result":"The template is changed",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":29,
+          "title":"Add the indicators.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"undefined",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201cIndicators\u201c button.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Hover on one option in context menu.",
+              "expected_result":"Shows second context menu.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Choose one of the indicator.",
+              "expected_result":"Shows menu to settings of the indicator.",
+              "data":""
+            },
+            {
+              "position":5,
+              "action":"Set the options in the menu of the indicator.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":6,
+              "action":"Press the \u201cConfirm\u201c button.",
+              "expected_result":"The indicator is added on the graphic.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":30,
+          "title":"Change the type of mouse pointer.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201cPointer\u201c button.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Choose one of the pointers.",
+              "expected_result":"The pointer of mouse is changed.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":31,
+          "title":"Add a line to the graphic.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press on the \u201cline\u201c button.",
+              "expected_result":"Shows a context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Choose what kind of line you want to add to the graphic.",
+              "expected_result":"The type of line is selected.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Select where on the graphic you want to put the line",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":5,
+              "action":"Left click with mouse.",
+              "expected_result":"The line is added on the graphic.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":32,
+          "title":"Add a Fibonacci attribute to the graphic.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press on the \u201cFibonacci\u201c button.",
+              "expected_result":"Shows a context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Choose what kind of Fibonacci attribute you want to add to the graphic.",
+              "expected_result":"The Fibonacci attribute is selected.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Select where on the graphic you want to put the Fibonacci attribute",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":5,
+              "action":"Left click with mouse.",
+              "expected_result":"The Fibonacci attribute is added on the graphic.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":33,
+          "title":"Add a figure on the graphic.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201cfigure\u201d button.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Select what kind of figure you want to add on the graphic.",
+              "expected_result":"The figure is selected.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Left click with mouse on the graphic and drag.",
+              "expected_result":"The figure is added.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":34,
+          "title":"Add drawings in the graphic.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201cdrawing\u201c button.",
+              "expected_result":"Shows context menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Select one of options you want.",
+              "expected_result":"The drawing option is selected.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Left click with mouse a few time on the graphic.",
+              "expected_result":"The drawing is added on the graphic.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":35,
+          "title":"Add a text on the graphic.",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the graphic.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Press the \u201ctext\u201c button.",
+              "expected_result":"The text button is selected.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Left click with mouse and drag on the graphic.",
+              "expected_result":"The text box is added.",
+              "data":""
+            },
+            {
+              "position":4,
+              "action":"Fill in the text in the field you added.",
+              "expected_result":"The text is added.",
+              "data":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":5,
+      "title":"Right Side Menu",
+      "description":null,
+      "preconditions":"1. Logged in to Trading 212 account.\n\n2. Opened CFD platform.",
+      "suites":[
+        
+      ],
+      "cases":[
+        {
+          "id":36,
+          "title":"Show \"Instrument details\"",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the right side on the main screen of application on the \"Instrument details\" button.",
+              "expected_result":"Shows hint text",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the \"Instrument details\" button.",
+              "expected_result":"Expands \u201cInstrument details\u201d field.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":37,
+          "title":"Show \"Chart Explorer\"",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the right side on the main screen of application on the \"Chart Explorer\" button.",
+              "expected_result":"Shows hint text",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the \"Chart Explorer\" button.",
+              "expected_result":"Expands \u201cChart Explorer\u201c field.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":38,
+          "title":"Show \"Videos\"",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the right side on the main screen of application on the \"Videos\" button.",
+              "expected_result":"Shows hint text",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the \"Videos\" button.",
+              "expected_result":"Expands \u201cVideos\u201c field.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":39,
+          "title":"Show \"News and analysis\"",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the right side on the main screen of application on the \"News and analysis\" button.",
+              "expected_result":"Shows hint text",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the \"News and analysis\" button.",
+              "expected_result":"Expands \u201cNews and analysis\u201c field.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":40,
+          "title":"Show \"Economic calendar\"",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the right side on the main screen of application on the \"Economic calendar\" button.",
+              "expected_result":"Shows hint text",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the \"Economic calendar\" button.",
+              "expected_result":"Expands \u201cEconomic calendar\u201c field.",
+              "data":""
+            }
+          ]
+        },
+        {
+          "id":41,
+          "title":"Show \"Notifications\"",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"medium",
+          "severity":"normal",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the right side on the main screen of application on the \"Notifications\" button.",
+              "expected_result":"Shows hint text",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the \"Notifications\" button.",
+              "expected_result":"Expands \u201cNotifications\u201c field.",
+              "data":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":6,
+      "title":"Settings menu",
+      "description":null,
+      "preconditions":"1. Logged in to Trading 212 account.\n\n2. Opened CFD platform.",
+      "suites":[
+        
+      ],
+      "cases":[
+        {
+          "id":42,
+          "title":"Open settings menu",
+          "description":null,
+          "preconditions":null,
+          "postconditions":null,
+          "priority":"high",
+          "severity":"major",
+          "behavior":"positive",
+          "type":"functional",
+          "automation":"is-not-automated",
+          "status":"actual",
+          "milestone":null,
+          "custom_fields":[
+            
+          ],
+          "steps":[
+            {
+              "position":1,
+              "action":"Hover on the top right corner.",
+              "expected_result":"",
+              "data":""
+            },
+            {
+              "position":2,
+              "action":"Click on the button.",
+              "expected_result":"Shows drop-down menu.",
+              "data":""
+            },
+            {
+              "position":3,
+              "action":"Click on the \u201csettings\u201c button.",
+              "expected_result":"Settings is opened.",
+              "data":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
